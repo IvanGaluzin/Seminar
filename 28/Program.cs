@@ -4,13 +4,13 @@ Console.Clear();
 
 int Multi(int number)
 {
-int prod = 1;
+    int prod = 1;
 
-for (int i = 2; i <= number; i++)
-{
-prod *= i; // prod = prod * i
-}
-return prod;
+    for (int i = 2; i <= number; i++)
+    {
+        prod *= i; // prod = prod * i
+    }
+    return prod;
 }
 
 Console.Write("Введите число N: ");
