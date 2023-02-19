@@ -1,0 +1,15 @@
+{
+    "workbench.editor.languageDetectionHints": {
+        "untitledEditors": false,
+        "notebookEditors": false
+    },
+    "javascript.suggest.autoImports": false,
+    "typescript.suggest.autoImports": false,
+    "html.format.enable": false,
+    "json.format.enable": false,
+    "javascript.format.enable": false,
+    "typescript.format.enable": false,
+    "css.format.enable": false,
+    "scss.format.enable": false,
+    "less.format.enable": false
+}
