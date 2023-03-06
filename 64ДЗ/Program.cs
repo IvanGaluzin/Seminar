@@ -11,6 +11,6 @@ string NumberFor(int n, int count)
 }
 
 Console.Clear();
-Console.Write("Введите число: ");
+Console.Write("Введите число N: ");
 int n = int.Parse(Console.ReadLine()!);
 Console.WriteLine(NumberFor(n, count));
